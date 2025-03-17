@@ -1,4 +1,4 @@
-#CORSIKA7 and CORSIKA8 comparison
+# CORSIKA7 and CORSIKA8 comparison
 
 ## For CORSIKA7
 
