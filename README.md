@@ -10,4 +10,4 @@ https://github.com/cta-observatory/pycorsikaio
 
 The developers of CORSIKA8 provide a python library to work with the native CORSIKA8 output format. This is described in
 
-https://gitlab.iap.kit.edu/AirShowerPhysics/corsika
+https://gitlab.iap.kit.edu/AirShowerPhysics/corsika/-/tree/master/python
